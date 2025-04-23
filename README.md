@@ -50,8 +50,10 @@ Ajuste o nome das varieveis console e extenssão dos arquivos, salve as alteraç
 ![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
 
 5 - Resultado final pasta de Roms organizadas, roms organizadas em ordem alfabetica e compactadas em um formato compativel com a maioria dos emuladores e sistemas FPGA.
-Agora é só copiar para o cartão de memoria e se divertir.
 ![ROMS organizadas](screenshot_depois.png)
+
+Copie para o cartão de memoria e teste no seu emulador ou FPGA.
+![Teste no Mister FPGA](teste_mister.jpg)
 
 Considere ajudar apoiando!
 João Alvaro - Chave Pix: joao.alvaro@gmail.com
