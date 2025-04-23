@@ -26,18 +26,32 @@ Este script automatiza a organização de ROMs de diferentes consoles em uma est
    ```sh
    python3 "FPGAGAMERS ROMS Organizer V1.2.py"
 
-Eu uso e recomendo instalação pyCHarm Community e interpretador Python3
+## Demonstração em 5 etapas.
+Eu uso e recomendo instalação pyCharm Community e interpretador Python3 para execução do script: "FPGAMERS ROMS Organizer.py"
+
+1- Opcional, mas recomendo usar Dat No-Intro e RomCenter para renomear as roms antes de executar o script.
+Site Oficial para baixar os arquivos dat de cada console do Projeto No-Intro.
+https://datomatic.no-intro.org/index.php?page=download&s=64
+
+Site Oficial para baixar a ferramenta RomCenter.
+https://www.romcenter.com/downloadpage/
 
 ![Recomendo usar Dat No-Intro e RomCenter para renomear as roms antes de executar o script](screenshot_romcenter_datnointro.png)
 
+2 - Certifique de extrair todas as roms usando 7zip ou Winrar em uma pasta.
 ![ROMS descompactadas](screenshot_antes.png)
 
+3 - Eu uso e recomendo instalação pyCharm Community e interpretador Python3, após instalar, baixe o script na pasta de roms e de um duplo clique no script.
+Ajuste o nome do console e extenssão dos arquivos, salve as alterações e clique em Run para executar o script: "FPGAMERS ROMS Organizer.py", conforme imagem abaixo:
 ![Executando Script atraves do PyCharm](screenshot_running.png)
 
-![ROMS organizadas](screenshot_depois.png)
-
+4 - Acompanhe a excução no terminal do python, no final deve gerar uma lista com as roms.
 ![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
 
-Ajude apoiando, Chave Pix joao.alvaro@gmail.com
+5 - Resultado final pasta de Roms organizadas, roms organizadas em ordem alfabetica e compactadas em um formato compactivel com a maioria dos emuladores e sistemas FPGA.
+![ROMS organizadas](screenshot_depois.png)
+
+Considere ajudar apoiando!
+João Alvaro - Chave Pix: joao.alvaro@gmail.com
 
 BOM DIVERTIMENTO!
