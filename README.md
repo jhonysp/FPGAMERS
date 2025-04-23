@@ -49,7 +49,7 @@ Ajuste o nome do console e extenssão dos arquivos, salve as alterações e cliq
 4 - Acompanhe a excução no terminal do python, no final deve gerar uma lista com as roms.
 ![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
 
-5 - Resultado final pasta de Roms organizadas, roms organizadas em ordem alfabetica e compactadas em um formato compactivel com a maioria dos emuladores e sistemas FPGA.
+5 - Resultado final pasta de Roms organizadas, roms organizadas em ordem alfabetica e compactadas em um formato compativel com a maioria dos emuladores e sistemas FPGA.
 ![ROMS organizadas](screenshot_depois.png)
 
 Considere ajudar apoiando!
