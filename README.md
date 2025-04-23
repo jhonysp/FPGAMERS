@@ -38,4 +38,6 @@ Eu uso e recomendo instalação pyCHarm Community e interpretador Python3
 
 ![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
 
+Ajude apoiando, Chave Pix joao.alvaro@gmail.com
+
 BOM DIVERTIMENTO!
