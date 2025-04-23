@@ -28,9 +28,14 @@ Este script automatiza a organização de ROMs de diferentes consoles em uma est
 
 Eu uso e recomendo instalação pyCHarm Community e interpretador Python3
 
-![ROMS descompactadas, recomendo usar Dat No-Intro e RomCenter para renomear as roms antes de executar o script](screenshot_running.png)
+![Recomendo usar Dat No-Intro e RomCenter para renomear as roms antes de executar o script](screenshot_romcenter_datnointro.png)
+
+![ROMS descompactadas](screenshot_antes.png)
 
 ![Executando Script atraves do PyCharm](screenshot_running.png)
 
 ![ROMS organizadas](screenshot_depois.png)
 
+![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
+
+BOM DIVERTIMENTO!
