@@ -27,4 +27,4 @@ Este script automatiza a organização de ROMs de diferentes consoles em uma est
    python3 "FPGAGAMERS ROMS Organizer V1.2.py"
 
 Eu uso e recomendo instalação pyCHarm Community e interpretador Python3
-
+https://github.com/jhonysp/FPGAMERS/blob/main/pycharm_running.bmp
