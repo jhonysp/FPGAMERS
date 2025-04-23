@@ -30,6 +30,7 @@ Este script automatiza a organização de ROMs de diferentes consoles em uma est
 Eu uso e recomendo instalação pyCharm Community e interpretador Python3 para execução do script: "FPGAMERS ROMS Organizer.py"
 
 1- Opcional, mas recomendo usar Dat No-Intro e RomCenter para renomear as roms antes de executar o script.
+
 Site Oficial para baixar os arquivos dat de cada console do Projeto No-Intro.
 https://datomatic.no-intro.org/index.php?page=download&s=64
 
