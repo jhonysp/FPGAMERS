@@ -43,13 +43,14 @@ https://www.romcenter.com/downloadpage/
 ![ROMS descompactadas](screenshot_antes.png)
 
 3 - Eu uso e recomendo instalação pyCharm Community e interpretador Python3, após instalar, baixe o script na pasta de roms e de um duplo clique no script.
-Ajuste o nome do console e extenssão dos arquivos, salve as alterações e clique em Run para executar o script: "FPGAMERS ROMS Organizer.py", conforme imagem abaixo:
+Ajuste o nome das varieveis console e extenssão dos arquivos, salve as alterações e clique em Run para executar o script "FPGAMERS ROMS Organizer.py", conforme imagem abaixo:
 ![Executando Script atraves do PyCharm](screenshot_running.png)
 
 4 - Acompanhe a excução no terminal do python, no final deve gerar uma lista com as roms.
 ![Fim do script, resultado final gera lista de roms](screenshot_final_lista.png)
 
 5 - Resultado final pasta de Roms organizadas, roms organizadas em ordem alfabetica e compactadas em um formato compativel com a maioria dos emuladores e sistemas FPGA.
+Agora é só copiar para o cartão de memoria e se divertir.
 ![ROMS organizadas](screenshot_depois.png)
 
 Considere ajudar apoiando!
