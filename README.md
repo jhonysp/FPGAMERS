@@ -28,5 +28,5 @@ Este script automatiza a organização de ROMs de diferentes consoles em uma est
 
 Eu uso e recomendo instalação pyCHarm Community e interpretador Python3
 
-<img src="[https://github.com/jhonysp/FPGAMERS/blob/main/pycharm_running.bmp]" alt="Screenshot do PyCharm executando o Script" width="500">
+![Executando Script via PyCharm](assets/screenshot.png)
 
